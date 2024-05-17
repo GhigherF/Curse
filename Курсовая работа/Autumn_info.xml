@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet version="1.0" type="text/xsl" href="Autumn-collection.xsl"?>
+
+
+
+
+<info>
+
+
+<block>
+<id>c1</id>
+<sex>Мужской</sex>
+<description>Строгое деловое пальто в классическом стиле подойдет для ежедневной носки на работу. Ткань не мнется и остается в идеальном виде, после поездки в машине.</description>
+<material>Шерсть</material>
+<color>Чёрный</color>
+<src>images\3.jpg</src>
+<src_2>images\1.jpg</src_2>
+<src_3>images\2.jpg</src_3>
+<src_4>images\4.jpg</src_4>
+<src_5>images\5.jpg</src_5>
+<name>Классическое мужское пальто с английским воротником</name>
+<cost>2978,99 BYN</cost>
+</block>
+
+<block>
+<id>c2</id>
+<sex>Женский</sex>
+<description>Невероятно стильный дизайн тренча ADVA из коллекции Mackage покорит вас с первого взгляда. Множество сложных деталей кроя сочетают в себе классику и современные смелые решения. Тренч из смесового хлопка станет идеальным дополнением ваших образов, привнося в них элегантность и дополнительный комфорт. С таким предметом гардероба вы легко сможете заявить о себе и подчеркнуть вашу яркую индивидуальность и харизму. Погрузитесь в мир роскоши и стиля с тренчем от Mackage!</description>
+<material>Полиэстр</material>
+<color>Белый</color>
+<src>images\2_1.jpg</src>
+<src_2>images\2_2.jpg</src_2>
+<src_3>images\2_3.jpg</src_3>
+<src_4>images\2_4.jpg</src_4>
+<src_5>images\2_5.jpg</src_5>
+<name>Тренч ADVA из смесового хлопка</name>
+<cost>3 959,99 BYN</cost>
+</block>
+
+<block>
+<id>c3</id>
+<sex>Женский</sex>
+<description>Двубортное пальто ZAFFO из изысканной кашемировой ткани – настоящая жемчужина в коллекции MAX MARA. Его оригинальный фасон позволяет создавать стильные, утонченные образы и выглядеть всегда безупречно. Дизайнеры марки выбрали для этой модели рукава реглан с эластичными манжетами, воротник с широкими лацканами, прорезные карманы и застежку на пуговицы. Для комфорта движения и летящего силуэта предусмотрена шлица.
+Пальто ZAFFO подчеркнет ваше тонкое чувство стиля и отличный вкус. Позвольте себе удовольствие притягивать восхищенные взгляды!</description>
+<material>Кашемир</material>
+<color>Белый</color>
+<src>images\3_1.jpg</src>
+<src_2>images\3_2.jpg</src_2>
+<src_3>images\3_3.jpg</src_3>
+<src_4>images\3_4.jpg</src_4>
+<src_5>images\3_2.jpg</src_5>
+<name>Пальто ZAFFO из кашемира</name>
+<cost>22 849,99 BYN</cost>
+</block>
+
+<block>
+<id>c4</id>
+<sex>Мужской</sex>
+<description>gg</description>
+<material>Шерсть</material>
+<color>Серый</color>
+<src>images\4_1.jpg</src>
+<src_2>images\4_2.jpg</src_2>
+<src_3>images\4_3.jpg</src_3>
+<src_4>images\4_4.jpg</src_4>
+<src_5>images\4_2.jpg</src_5>
+<name>ПАЛЬТО МУЖСКОЕ ДЕМИСЕЗОННОЕ 1М-120571-1</name>
+<cost>366,64 руб</cost>
+</block>
+
+<block>
+<id>c5</id>
+<sex>Женский</sex>
+<description>Женское пальто из 100% шерсти, СОВРЕМЕННОЕ НОВОЕ Осеннее шерстяное длинное пальто SAGA, полупальто ручной работы</description>
+<material>Шерсть</material>
+<color>Коричневый</color>
+<src>images\5_1.jpeg</src>
+<src_2>images\5_2.jpeg</src_2>
+<src_3>images\5_3.jpeg</src_3>
+<src_4>images\5_4.jpeg</src_4>
+<src_5>images\5_2.jpeg</src_5>
+<name>СОВРЕМЕННАЯ НОВАЯ САГА</name>
+<cost>376,40 BYN</cost>
+</block>
+
+<block>
+<id>c6</id>
+<sex>Женский</sex>
+<description>Пальто выполнено из полушерстяного драпа. Модель прямого кроя. Детали: застежка на пуговицы, воротник с лацканами, 2 боковых кармана без застежки, внутри шелковая подкладка.</description>
+<material>Шерсть</material>
+<color>Коричневый</color>
+<src>images\6_1.webp</src>
+<src_2>images\6_2.webp</src_2>
+<src_3>images\6_3.webp</src_3>
+<src_4>images\6_4.webp</src_4>
+<src_5>images\6_2.webp</src_5>
+<name>Killed</name>
+<cost>464.60  BYN</cost>
+</block>
+
+</info>
+

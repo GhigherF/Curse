@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet version="1.0" type="text/xsl" href="Demiseason_collection.xsl"?>
+
+
+
+
+<info>
+
+
+<block>
+<id>c1</id>
+<sex>Мужской</sex>
+<description>Строгое деловое пальто в классическом стиле подойдет для ежедневной носки на работу. Ткань не мнется и остается в идеальном виде, после поездки в машине.</description>
+<material>Шерсть</material>
+<color>Чёрный</color>
+<src>images\3.jpg</src>
+<src_2>images\1.jpg</src_2>
+<src_3>images\2.jpg</src_3>
+<src_4>images\4.jpg</src_4>
+<src_5>images\5.jpg</src_5>
+<name>Классическое мужское пальто с английским воротником</name>
+<cost>2978,99 BYN</cost>
+</block>
+
+
+
+</info>
